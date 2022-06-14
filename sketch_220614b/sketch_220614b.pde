@@ -11,6 +11,7 @@ public class sketch_220614b extends PApplet{
       super.settings();
       size(width,height);
     }
+    
     //@Override
     //public void draw(){
     //  ellipse(x,height/5, diameter, diameter);
